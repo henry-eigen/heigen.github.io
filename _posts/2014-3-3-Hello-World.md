@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You're up and running!
+title: O(n<sup>2</sup>) to O(n) with middle school math
+published: true
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
